@@ -1,0 +1,5 @@
+C:\C#\proyect\proyecto.Infrastructure\obj\Debug\net7.0\proyecto.Infrastructure.csproj.AssemblyReference.cache
+C:\C#\proyect\proyecto.Infrastructure\obj\Debug\net7.0\proyecto.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\proyect\proyecto.Infrastructure\obj\Debug\net7.0\proyecto.Infrastructure.AssemblyInfoInputs.cache
+C:\C#\proyect\proyecto.Infrastructure\obj\Debug\net7.0\proyecto.Infrastructure.AssemblyInfo.cs
+C:\C#\proyect\proyecto.Infrastructure\obj\Debug\net7.0\proyecto.Infrastructure.csproj.CoreCompileInputs.cache
